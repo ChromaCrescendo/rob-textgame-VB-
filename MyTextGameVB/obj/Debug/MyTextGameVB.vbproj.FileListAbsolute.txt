@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\bin\Debug\MyTextGameVB.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\bin\Debug\MyTextGameVB.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\bin\Debug\MyTextGameVB.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\bin\Debug\MyTextGameVB.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MyTextGameVB\MyTextGameVB\obj\Debug\MyTextGameVB.pdb
