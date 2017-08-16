@@ -12,6 +12,7 @@
     Class Monster
         Inherits Character
     End Class
+
     Class Paladin
         Inherits Character
         Public Sub New()
@@ -50,7 +51,7 @@
 
         Public Function doBattle() As Boolean
             Console.ForegroundColor = ConsoleColor.Red
-            Console.WriteLine("A " & m1.name & " appears before you with " & m1.hp & " health and " & m1.maxAtk & " attack")
+            Console.WriteLine("A " & m1.name & " appears before you with " & m1.hp & " health and " & (m1.maxAtk - 1) & " attack")
             Console.ForegroundColor = ConsoleColor.Gray
             System.Threading.Thread.Sleep(1000)
             Console.WriteLine("What do you do? Attack or run?")
@@ -95,7 +96,7 @@
                     'but still can calculate armor no matter what
                     'original line as follows
                     'if (classInput!= "MAGE")
-                    If p1.name <> "MAGE" Then
+                    If p1.armor > 0 Then
                         Console.WriteLine("Your worn armor saves you from " & p1.armor & " damage")
                         'this triple nested if statement prevents an enemy from dealing negative
                         'damage because of armor and healing the character (HOPEFULLY)
